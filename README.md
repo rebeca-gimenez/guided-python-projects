@@ -1,7 +1,7 @@
 # Guided Python Projects
-Guided python programming projects from courses
+Guided Python programming projects from courses
 ## Fundamentals of Computing Specialization
-The [Fundamentals of Computing Specialization from Coursera] (https://www.coursera.org/specializations/computer-fundamentals) prepares students for **Advanced Computer Science Courses**.
+The [Fundamentals of Computing Specialization from Coursera](https://www.coursera.org/specializations/computer-fundamentals) prepares students for **Advanced Computer Science Courses**.
 | # | Course |
 | ----------- | ----------- |
 | 1 | An Introduction to Interactive Programming in Python (Part 1) |
