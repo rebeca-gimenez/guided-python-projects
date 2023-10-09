@@ -5,8 +5,9 @@ Guided Python programming projects from courses
 | 1 | [Fundamentals of Computing Specialization](#fundamentals-of-computing-specialization) | 7 | 91 | 20 | [link](https://coursera.org/share/1747c8e31dca9e845a27820482c94501) |
 
 ## Fundamentals of Computing Specialization
-The [Fundamentals of Computing Specialization from Coursera](https://www.coursera.org/specializations/computer-fundamentals) prepares students for **Advanced Computer Science Courses**.
-The Python projects were made in [CodeSkulptor](https://py2.codeskulptor.org/), a browser-based Python interpreter offered by Rice University
+The [Fundamentals of Computing Specialization from Coursera](https://www.coursera.org/specializations/computer-fundamentals) prepares students for **Advanced Computer Science Courses**.<br>
+The Python projects were made in [CodeSkulptor](https://py2.codeskulptor.org/), a browser-based Python interpreter offered by Rice University.<br>
+**Code is not public to comply with Coursera's Honor Code.**
 | # | Course | Hours |
 | ----------- | ----------- | ----------- |
 | 1 | [An Introduction to Interactive Programming in Python (Part 1)](#an-introduction-to-interactive-programming-in-python) | 19 |
@@ -17,6 +18,8 @@ The Python projects were made in [CodeSkulptor](https://py2.codeskulptor.org/), 
 | 6 | [Algorithmic Thinking (Part 2)](#algorithmic-thinking) | 11 |
 | 7 | [Capstone](#capstone) | 1 |
 ### An Introduction to Interactive Programming in Python
+Skills: Event-driven programming, canvas, keyboard input, object-oriented programming, sprites, data structures.<br>
+**Code is not public to comply with Coursera's Honor Code.**
 1. Rock-paper-scissors-lizard-Spock.
 2. Guess the number.
 3. Stopwatch: The Game.
@@ -25,11 +28,13 @@ The Python projects were made in [CodeSkulptor](https://py2.codeskulptor.org/), 
 6. BlackJack.
 7. Spaceship and RiceRocks.<br>
 Go back to [Fundamentals of Computing Specialization](#fundamentals-of-computing-specialization)
-or to [Guided Python Projects](#guided-python-projects)
+or to [Guided Python Projects](#guided-python-projects).
 ### Principles of Computing
-1. Mancala	MergeLine.
+Skills: Probability, combinatorics, debugging, growth of functions, plotting, recursion, trees, assertions.<br>
+**Code is not public to comply with Coursera's Honor Code.**
+1. Mancala.
 2. '2048'.
-3. Tic-Tac-Toe.
+3. Tic-Tac-Toe: I made my own [code](https://github.com/rebeca-gimenez/tic-tac-toe#tic-tac-toe-game) following the principles learned in the course and added new functionalities.
 4. Yahtzee.
 5. Greedy Cookies.
 6. Zombie Apocalypse.
@@ -39,6 +44,8 @@ or to [Guided Python Projects](#guided-python-projects)
 Go back to [Fundamentals of Computing Specialization](#fundamentals-of-computing-specialization)
 or to [Guided Python Projects](#guided-python-projects)
 ### Algorithmic Thinking
+Graph representation, plotting, analysis of data, asymptotic analysis, "big O" notation, pseudocode, breadth-first search.<br>
+**Code is not public to comply with Coursera's Honor Code.**
 1. Project #1 and Application #1.
 3. Project #2 and Application #2.
 5. Project #3 and Application #3.
