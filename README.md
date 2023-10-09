@@ -28,7 +28,7 @@ Go back to [Fundamentals of Computing Specialization](#fundamentals-of-computing
 or to [Guided Python Projects](#guided-python-projects)
 ### Principles of Computing
 1. Mancala	MergeLine.
-2. 2048.
+2. '2048'.
 3. Tic-Tac-Toe.
 4. Yahtzee.
 5. Greedy Cookies.
