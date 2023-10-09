@@ -20,36 +20,46 @@ The Python projects were made in [CodeSkulptor](https://py2.codeskulptor.org/), 
 ### An Introduction to Interactive Programming in Python
 Skills: Event-driven programming, canvas, keyboard input, object-oriented programming, sprites, data structures.<br>
 **Code is not public to comply with Coursera's Honor Code.**
-1. Rock-paper-scissors-lizard-Spock.
-2. Guess the number.
-3. Stopwatch: The Game.
-4. Pong.
-5. Memory.
-6. BlackJack.
-7. Spaceship and RiceRocks.<br>
+| # | Project | Description | Picture |
+| ----------- | ----------- | ----------- | ----------- |
+| 1 | Rock-paper-scissors-lizard-Spock simulator |  | N/A |
+| 2 | Guess the number |  | <img src="/Fundamentals-of-computing-pictures/IIPP-2-Guess-the-number.png" alt="Guess the number game" style="width:400px;"/> |
+| 3 | Stopwatch: The Game |  | <img src="/Fundamentals-of-computing-pictures/IIPP-3-Stopwatch.png" alt="Stopwatch game" style="width:400px;"/> |
+| 4 | Pong |  | <img src="/Fundamentals-of-computing-pictures/IIPP-4-Pong.png" alt="Pong game" style="width:400px;"/> |
+| 5 | Memory |  | <img src="/Fundamentals-of-computing-pictures/IIPP-5-Memory.png" alt="Memory game" style="width:400px;"/> |
+| 6 | BlackJack |  | <img src="/Fundamentals-of-computing-pictures/IIPP-6-Blackjack.png" alt="BlackJack game" style="width:400px;"/> |
+| 7 | Spaceship and RiceRocks |  | <img src="/Fundamentals-of-computing-pictures/IIPP-7-RiceRocks.png" alt="RiceRocks game" style="width:400px;"/> |
+
 Go back to [Fundamentals of Computing Specialization](#fundamentals-of-computing-specialization)
 or to [Guided Python Projects](#guided-python-projects).
 ### Principles of Computing
 Skills: Probability, combinatorics, debugging, growth of functions, plotting, recursion, trees, assertions.<br>
 **Code is not public to comply with Coursera's Honor Code.**
-1. Mancala.
-2. '2048'.
-3. Tic-Tac-Toe: I made my own [code](https://github.com/rebeca-gimenez/tic-tac-toe#tic-tac-toe-game) following the principles learned in the course and added new functionalities.
-4. Yahtzee.
-5. Greedy Cookies.
-6. Zombie Apocalypse.
-7. Word Wrangler.
-8. Mini-max Tic-Tac-Toe Player.
-9. 15 Puzzle.<br>
+| # | Project | Description | Picture |
+| ----------- | ----------- | ----------- | ----------- |
+| 1 | Mancala |  | <img src="/Fundamentals-of-computing-pictures/PoC-1-Mancala-Solitaire.png" alt="Mancala game" style="width:400px;"/> |
+| 2 | 2048 |  | <img src="/Fundamentals-of-computing-pictures/PoC-2-2048.png" alt="2048 game" style="width:400px;"/> |
+| 3 | Tic-Tac-Toe |  | <img src="/Fundamentals-of-computing-pictures/PoC-3-Tic-Tac-Toe.png" alt="Tic-Tac-Toe game" style="width:400px;"/> |
+| 4 | Yahtzee |  | N/A |
+| 5 | Greedy Cookies simulator |  | N/A |
+| 6 | Zombie Apocalypse |  | <img src="/Fundamentals-of-computing-pictures/PoC-6-Zombie-Apocalypse.png" alt="Zombie Apocalypse game" style="width:400px;"/> |
+| 7 | Word Wrangler |  | <img src="/Fundamentals-of-computing-pictures/PoC-7-Word-Wrangler.png" alt="Word Wrangler game" style="width:400px;"/> |
+| 8 | Mini-max Tic-Tac-Toe Player |  | <img src="/Fundamentals-of-computing-pictures/PoC-8-Tic-Tac-Toe-Min-Max.png" alt="Tic-Tac-Toe game with Min-Max player" style="width:400px;"/> |
+| 9 | 15 Puzzle Solver |  | <img src="/Fundamentals-of-computing-pictures/PoC-9-15-Puzzle.png" alt="Fifteen puzzle game solver" style="width:400px;"/> |
+
+I made my own [Tic Tac Toe game](https://github.com/rebeca-gimenez/tic-tac-toe#tic-tac-toe-game) following the principles learned in the course and added new functionalities.<br>
 Go back to [Fundamentals of Computing Specialization](#fundamentals-of-computing-specialization)
 or to [Guided Python Projects](#guided-python-projects)
 ### Algorithmic Thinking
 Graph representation, plotting, analysis of data, asymptotic analysis, "big O" notation, pseudocode, breadth-first search.<br>
 **Code is not public to comply with Coursera's Honor Code.**
-1. Project #1 and Application #1.
-3. Project #2 and Application #2.
-5. Project #3 and Application #3.
-7. Project #4 and Application #4.<br>
+| # | Project | Description | Picture |
+| ----------- | ----------- | ----------- | ----------- |
+| 1 | Project #1 and Application #1 |  | <img src="/Fundamentals-of-computing-pictures/AT-Application-1.png" alt="Guess the number game" style="width:400px;"/> |
+| 2 | Project #2 and Application #2 |  | <img src="/Fundamentals-of-computing-pictures/AT-Application-2.png" alt="Guess the number game" style="width:400px;"/> |
+| 3 | Project #3 and Application #3 |  | <img src="/Fundamentals-of-computing-pictures/AT-Application-3.png" alt="Stopwatch game" style="width:400px;"/> |
+| 4 | Project #4 and Application #4 |  | <img src="/Fundamentals-of-computing-pictures/AT-Application-4.png" alt="Pong game" style="width:400px;"/> |
+
 Go back to [Fundamentals of Computing Specialization](#fundamentals-of-computing-specialization)
 or to [Guided Python Projects](#guided-python-projects)
 ### Capstone
