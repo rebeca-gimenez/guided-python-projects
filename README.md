@@ -39,7 +39,7 @@ Skills: Probability, combinatorics, debugging, growth of functions, plotting, re
 | ----------- | ----------- | ----------- | ----------- |
 | 1 | Mancala |  | <img src="/Fundamentals-of-computing-pictures/PoC-1-Mancala-Solitaire.png" alt="Mancala game" style="width:400px;"/> |
 | 2 | 2048 |  | <img src="/Fundamentals-of-computing-pictures/PoC-2-2048.png" alt="2048 game" style="width:400px;"/> |
-| 3 | Tic-Tac-Toe |  | <img src="/Fundamentals-of-computing-pictures/PoC-3-Tic-Tac-Toe.png" alt="Tic-Tac-Toe game" style="width:400px;"/> |
+| 3 | Tic-Tac-Toe | Tic-Tac-Toe game code.<br>[Here](https://github.com/rebeca-gimenez/tic-tac-toe#tic-tac-toe-game) you can see my own version of this assignment (my **original code with added functionalities**) | <img src="/Fundamentals-of-computing-pictures/PoC-3-Tic-Tac-Toe.png" alt="Tic-Tac-Toe game" style="width:400px;"/> |
 | 4 | Yahtzee |  | N/A |
 | 5 | Greedy Cookies simulator |  | N/A |
 | 6 | Zombie Apocalypse |  | <img src="/Fundamentals-of-computing-pictures/PoC-6-Zombie-Apocalypse.png" alt="Zombie Apocalypse game" style="width:400px;"/> |
@@ -47,7 +47,8 @@ Skills: Probability, combinatorics, debugging, growth of functions, plotting, re
 | 8 | Mini-max Tic-Tac-Toe Player |  | <img src="/Fundamentals-of-computing-pictures/PoC-8-Tic-Tac-Toe-Min-Max.png" alt="Tic-Tac-Toe game with Min-Max player" style="width:400px;"/> |
 | 9 | 15 Puzzle Solver |  | <img src="/Fundamentals-of-computing-pictures/PoC-9-15-Puzzle.png" alt="Fifteen puzzle game solver" style="width:400px;"/> |
 
-I made my own [Tic Tac Toe game](https://github.com/rebeca-gimenez/tic-tac-toe#tic-tac-toe-game) following the principles learned in the course and added new functionalities.<br>
+#### My own version of these projects
+- I made my own [Tic Tac Toe game](https://github.com/rebeca-gimenez/tic-tac-toe#tic-tac-toe-game) following the principles learned in the course and added new functionalities.<br>
 Go back to [Fundamentals of Computing Specialization](#fundamentals-of-computing-specialization)
 or to [Guided Python Projects](#guided-python-projects)
 ### Algorithmic Thinking
